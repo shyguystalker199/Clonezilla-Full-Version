@@ -242,4 +242,4 @@ This repository serves as the official landing page for Clonezilla. The software
 **Get the most recent version of Clonezilla today!**
 
 ---
-**Last updated:** 2026-11-04 17:00:51 UTC
+**Last updated:** 2026-11-04 23:30:25 UTC
